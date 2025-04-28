@@ -14,6 +14,7 @@ Predicting movie genres for unseen descriptions.
 Install all required Python libraries using:
 
 3. Project Files
+Dataset used: https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 Task1.ipynb: Jupyter notebook containing full code, training, testing, and evaluation.
 
 train_data.txt: Training dataset.
